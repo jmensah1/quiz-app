@@ -33,7 +33,7 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/quiz-app.git
+git clone https://github.com/jmensah1/quiz-app.git
 cd quiz-app
 ```
 
@@ -64,7 +64,7 @@ In this project, you can run the following scripts:
 
 ## Credits
 
-QuizApp is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
+QuizApp is built and maintained by [Joseph](https://safdarjamal.github.io).
 
 ## License
 

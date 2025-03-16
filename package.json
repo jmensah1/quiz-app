@@ -4,9 +4,9 @@
   "private": true,
   "author": {
     "name": "Safdar Jamal",
-    "url": "https://safdarjamal.github.io"
+    "url": "https://github.com/jmensah1.io/"
   },
-  "homepage": "https://safdarjamal.github.io/quiz-app/",
+  "homepage": "https://github.com/jmensah1.io/quiz-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -72,7 +72,7 @@
     "@storybook/testing-library": "^0.2.2",
     "babel-plugin-named-exports-order": "^0.0.2",
     "eslint-plugin-storybook": "^0.6.14",
-    "gh-pages": "^6.0.0",
+    "gh-pages": "^6.3.0",
     "storybook": "^7.4.5",
     "webpack": "^5.88.2"
   }
