@@ -1,0 +1,509 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which component of the biosphere covers 71% of the Earth?",
+      "correct_answer": "Hydrosphere",
+      "incorrect_answers": [
+        "Lithosphere",
+        "Atmosphere",
+        "Biosphere"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What constitutes the Socio-Economic Environment?",
+      "correct_answer": "Political, economic, and cultural systems",
+      "incorrect_answers": [
+        "Cities and buildings",
+        "Plants and animals",
+        "Rocks and minerals"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which resource is classified as non-renewable?",
+      "correct_answer": "Mineral deposits",
+      "incorrect_answers": [
+        "Timber",
+        "Fish",
+        "Arable land"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which event led to the creation of UNEP?",
+      "correct_answer": "1972 Stockholm Conference",
+      "incorrect_answers": [
+        "Brundtland Report (1987)",
+        "Rio Summit (1992)",
+        "Kyoto Protocol"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is a key goal of environmental management?",
+      "correct_answer": "Sustaining and improving resources",
+      "incorrect_answers": [
+        "Maximizing industrial output",
+        "Reducing government oversight",
+        "Promoting urbanization"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is a biotic resource?",
+      "correct_answer": "Timber",
+      "incorrect_answers": [
+        "Minerals",
+        "Rocks",
+        "Freshwater"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What determines the type of organisms that can live in a habitat?",
+      "correct_answer": "Abiotic factors (SWOTS)",
+      "incorrect_answers": [
+        "Producers",
+        "Decomposers",
+        "Transition zones"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which global event introduced Agenda 21?",
+      "correct_answer": "Rio Summit (1992)",
+      "incorrect_answers": [
+        "Stockholm Conference (1972)",
+        "Brundtland Report (1987)",
+        "Rio+20 (2012)"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which ecosystem service includes climate regulation and pollination?",
+      "correct_answer": "Regulating services",
+      "incorrect_answers": [
+        "Provisioning services",
+        "Cultural services",
+        "Supporting services"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the primary role of decomposers in an ecosystem?",
+      "correct_answer": "Recycle nutrients",
+      "incorrect_answers": [
+        "Produce food",
+        "Consume other organisms",
+        "Regulate temperature"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of a renewable resource?",
+      "correct_answer": "Solar energy",
+      "incorrect_answers": [
+        "Coal",
+        "Natural gas",
+        "Diamonds"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the main focus of the Brundtland Report?",
+      "correct_answer": "Sustainable development",
+      "incorrect_answers": [
+        "Wildlife conservation",
+        "Urban planning",
+        "Industrial growth"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a component of the biosphere?",
+      "correct_answer": "Technosphere",
+      "incorrect_answers": [
+        "Hydrosphere",
+        "Lithosphere",
+        "Atmosphere"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the main function of the atmosphere?",
+      "correct_answer": "Regulate gases",
+      "incorrect_answers": [
+        "Provide water",
+        "Support soil formation",
+        "Produce minerals"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of a provisioning service?",
+      "correct_answer": "Food",
+      "incorrect_answers": [
+        "Climate regulation",
+        "Soil formation",
+        "Recreation"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the primary purpose of the EPA in Ghana?",
+      "correct_answer": "Regulate environmental issues",
+      "incorrect_answers": [
+        "Promote industrial growth",
+        "Manage urban development",
+        "Oversee agricultural activities"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is a characteristic of a desert ecosystem?",
+      "correct_answer": "Less than 25cm of rainfall annually",
+      "incorrect_answers": [
+        "High biodiversity",
+        "Dense vegetation",
+        "High humidity"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the primary source of energy for photosynthesis?",
+      "correct_answer": "Sunlight",
+      "incorrect_answers": [
+        "Water",
+        "Oxygen",
+        "Soil"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of a cultural service?",
+      "correct_answer": "Ecotourism",
+      "incorrect_answers": [
+        "Timber production",
+        "Carbon sequestration",
+        "Nutrient cycling"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the primary goal of Agenda 21?",
+      "correct_answer": "Promote sustainable development",
+      "incorrect_answers": [
+        "Reduce population growth",
+        "Increase industrial output",
+        "Expand urban areas"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is an abiotic resource?",
+      "correct_answer": "Minerals",
+      "incorrect_answers": [
+        "Fish",
+        "Timber",
+        "Leather"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the primary role of producers in an ecosystem?",
+      "correct_answer": "Produce food through photosynthesis",
+      "incorrect_answers": [
+        "Consume other organisms",
+        "Recycle nutrients",
+        "Regulate temperature"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following is a key outcome of the Rio+20 conference?",
+      "correct_answer": "Focus on sustainable development goals",
+      "incorrect_answers": [
+        "Introduction of Agenda 21",
+        "Creation of UNEP",
+        "Adoption of the Kyoto Protocol"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of a supporting service?",
+      "correct_answer": "Nutrient cycling",
+      "incorrect_answers": [
+        "Food production",
+        "Climate regulation",
+        "Recreation"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the primary function of the lithosphere?",
+      "correct_answer": "Support soil and rocks",
+      "incorrect_answers": [
+        "Regulate gases",
+        "Provide water",
+        "Produce energy"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is a characteristic of a grassland ecosystem?",
+      "correct_answer": "Dominance of grasses",
+      "incorrect_answers": [
+        "High rainfall",
+        "Dense forests",
+        "Low temperatures"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the primary focus of the Kyoto Protocol?",
+      "correct_answer": "Reduce greenhouse gas emissions",
+      "incorrect_answers": [
+        "Promote sustainable development",
+        "Conserve biodiversity",
+        "Regulate industrial pollution"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of a regulating service?",
+      "correct_answer": "Flood prevention",
+      "incorrect_answers": [
+        "Food production",
+        "Soil formation",
+        "Recreation"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the primary role of consumers in an ecosystem?",
+      "correct_answer": "Eat producers or other consumers",
+      "incorrect_answers": [
+        "Produce food",
+        "Recycle nutrients",
+        "Regulate temperature"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is a characteristic of a tropical rainforest ecosystem?",
+      "correct_answer": "High rainfall (200-250cm annually)",
+      "incorrect_answers": [
+        "Low biodiversity",
+        "Dry climate",
+        "Sparse vegetation"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the primary goal of the EPA Act 490 in Ghana?",
+      "correct_answer": "Regulate environmental issues and implement policies",
+      "incorrect_answers": [
+        "Promote industrial growth",
+        "Manage urban development",
+        "Oversee agricultural activities"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is a characteristic of a tundra ecosystem?",
+      "correct_answer": "Low temperatures and short growing seasons",
+      "incorrect_answers": [
+        "High rainfall",
+        "Dense forests",
+        "High biodiversity"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the primary focus of the MEA (Millennium Ecosystem Assessment)?",
+      "correct_answer": "Assess the impact of ecosystem changes on human well-being",
+      "incorrect_answers": [
+        "Promote industrial growth",
+        "Regulate greenhouse gas emissions",
+        "Conserve biodiversity"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the primary role of the hydrosphere?",
+      "correct_answer": "Provide water",
+      "incorrect_answers": [
+        "Regulate gases",
+        "Support soil formation",
+        "Produce minerals"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is a characteristic of a coniferous forest ecosystem?",
+      "correct_answer": "Dominance of evergreen trees",
+      "incorrect_answers": [
+        "High rainfall",
+        "Low temperatures",
+        "Sparse vegetation"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the primary goal of the Rio+10 conference?",
+      "correct_answer": "Review progress on Agenda 21",
+      "incorrect_answers": [
+        "Introduce sustainable development goals",
+        "Create UNEP",
+        "Adopt the Kyoto Protocol"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the primary role of the atmosphere?",
+      "correct_answer": "Regulate gases",
+      "incorrect_answers": [
+        "Provide water",
+        "Support soil formation",
+        "Produce minerals"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is a characteristic of a deciduous forest ecosystem?",
+      "correct_answer": "Trees shed leaves annually",
+      "incorrect_answers": [
+        "High rainfall",
+        "Low temperatures",
+        "Sparse vegetation"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the primary focus of the Stockholm Conference?",
+      "correct_answer": "Highlight the interconnection between environment and development",
+      "incorrect_answers": [
+        "Promote industrial growth",
+        "Regulate greenhouse gas emissions",
+        "Conserve biodiversity"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the primary role of the lithosphere?",
+      "correct_answer": "Support soil and rocks",
+      "incorrect_answers": [
+        "Regulate gases",
+        "Provide water",
+        "Produce energy"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the primary goal of the Brundtland Report?",
+      "correct_answer": "Promote sustainable development",
+      "incorrect_answers": [
+        "Conserve biodiversity",
+        "Regulate industrial pollution",
+        "Promote urbanization"
+      ]
+    },
+    {
+      "category": "Introduction To Environmental Management",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the primary focus of the Rio Summit (1992)?",
+      "correct_answer": "Implement sustainable development",
+      "incorrect_answers": [
+        "Promote industrial growth",
+        "Regulate greenhouse gas emissions",
+        "Conserve biodiversity"
+      ]
+    }
+  ]
+}
