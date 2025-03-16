@@ -114,7 +114,7 @@ const Main = ({ startQuiz }) => {
             <Item.Image src={mindImg} />
             <Item.Content>
               <Item.Header>
-                <h1>The Ultimate Trivia Quiz</h1>
+                <h1>IT 1- Evening Revision App</h1>
               </Item.Header>
               {error && (
                 <Message error onDismiss={() => setError(null)}>
