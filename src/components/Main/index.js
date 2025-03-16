@@ -23,10 +23,10 @@ import localQuestions from './questions.json'; // Import the local JSON file
 
 const Main = ({ startQuiz }) => {
   const [category, setCategory] = useState('0');
-  const [numOfQuestions, setNumOfQuestions] = useState(5);
+  const [numOfQuestions, setNumOfQuestions] = useState(10);
   const [countdownTime, setCountdownTime] = useState({
     hours: 0,
-    minutes: 120,
+    minutes: 240,
     seconds: 0,
   });
   const [processing, setProcessing] = useState(false);
